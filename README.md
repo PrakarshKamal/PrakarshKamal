@@ -1,3 +1,4 @@
+![logo](https://github.com/PrakarshKamal/PrakarshKamal/blob/main/lofi.png)
 <h1 align="center">Hi 👋, I'm Prakarsh Kamal</h1>
 <h3 align="center">A Computer Science student @McMaster University with a passion for all things software</h3>
 
