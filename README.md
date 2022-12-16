@@ -25,7 +25,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarshkamal&" alt="prakarshkamal" /></p> -->
 
-### :zap: Recent activity
+### Recent activity :zap:
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#7](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/7) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
