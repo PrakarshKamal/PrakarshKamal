@@ -25,4 +25,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarshkamal&" alt="prakarshkamal" /></p> -->
 
+### :zap: Recent activity
+
 <!--START_SECTION:activity-->
