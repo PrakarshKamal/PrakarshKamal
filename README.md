@@ -28,3 +28,6 @@
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#7](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/7) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
+2. 💪 Opened PR [#2](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/2) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
+<!--END_SECTION:activity-->
