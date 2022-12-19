@@ -5,7 +5,8 @@
 
 🧑‍🎓 A computer science student @McMaster University with a passion for all things software<br>🌱 I’m currently learning TypeScript<br>⚡ Fun fact about me: I love baking!<br/> 📫 How to reach me: **prakarshkamal@gmail.com**
 
-[![](https://visitcount.itsvg.in/api?id=PrakarshKamal&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakarshkamal&label=Profile%20views&color=0e75b6&style=flat" alt="prakarshkamal" /> </p>
+<!-- [![](https://visitcount.itsvg.in/api?id=PrakarshKamal&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
 ## 🌐 My Socials:
 
