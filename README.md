@@ -52,6 +52,6 @@
 ### Recent activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/9) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
-2. 💪 Opened PR [#7](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/7) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
+1. 💪 Opened PR [#14](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/14) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
+2. 💪 Opened PR [#9](https://github.com/DSC-McMaster-U/Canadian-Internships/pull/9) in [DSC-McMaster-U/Canadian-Internships](https://github.com/DSC-McMaster-U/Canadian-Internships)
 <!--END_SECTION:activity-->
