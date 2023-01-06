@@ -1,9 +1,9 @@
-![logo](https://github.com/PrakarshKamal/PrakarshKamal/blob/main/lofi.png)
+<p align="center"> <img src="https://github.com/PrakarshKamal/PrakarshKamal/blob/main/lofi.png" alt="logo" </p>
 <h1 align="center">Hi 👋, I'm Prakarsh Kamal</h1>
 
 # 💫 About Me:
 
-🧑‍🎓 A computer science student @McMaster University with a passion for all things software<br>🌱 I’m currently learning TypeScript<br>⚡ Fun fact about me: I love baking!<br/> 📫 How to reach me: **prakarshkamal@gmail.com**
+🧑‍🎓 A computer science student @McMaster University with a passion for all things software<br>🌱 I’m currently learning: TypeScript<br>⚡ Fun fact about me: I love baking!<br/> 📫 How to reach me: **prakarshkamal@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakarshkamal&label=Profile%20views&color=0e75b6&style=flat" alt="prakarshkamal" /> </p>
 <!-- [![](https://visitcount.itsvg.in/api?id=PrakarshKamal&icon=5&color=1)](https://visitcount.itsvg.in) -->
