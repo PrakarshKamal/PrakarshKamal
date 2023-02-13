@@ -1,16 +1,16 @@
-# name: Update README file
+name: Update README file
 
-# on:
-#   schedule:
-#     - cron: '0 * * * *'
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     name: Update this repo's README with recent activity
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
-#     steps:
-#       - uses: jamesgeorge007/github-activity-readme@v0.3.6
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
