@@ -1,5 +1,6 @@
-<p align="center"> <img src="https://tenor.com/view/shipit-revert-crash-gif-4770661" alt="logo" </p>
 <h1 align="center">Hi 👋, I'm Prakarsh Kamal</h1>
+
+![shipit-revert-gif](https://github.com/user-attachments/assets/51592f33-d882-41e1-937e-aff071692d41)
 
 # 💫 About Me:
 
