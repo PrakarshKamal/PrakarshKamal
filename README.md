@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/PrakarshKamal/PrakarshKamal/blob/main/lofi.png" alt="logo" </p>
+<p align="center"> <img src="https://tenor.com/view/shipit-revert-crash-gif-4770661" alt="logo" </p>
 <h1 align="center">Hi 👋, I'm Prakarsh Kamal</h1>
 
 # 💫 About Me:
